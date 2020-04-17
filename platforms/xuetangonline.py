@@ -8,7 +8,7 @@ import json
 from utils.mysql import execute
 
 
-# 获取类别id
+# 获取课程id
 def get_course(page):
     querystring = {"page": str(page)}
 
