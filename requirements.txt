@@ -1,4 +1,4 @@
 mysqlclient~=1.4.6
-requests~=2.22.0
+requests~=2.25.1
 bs4~=0.0.1
 beautifulsoup4~=4.8.2
